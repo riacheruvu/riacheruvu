@@ -1,7 +1,10 @@
-### Hello 👋, I'm Ria
-<img src="https://gist.github.com/riacheruvu/10296972fb23bafc7944354493eba86f/raw/522d5f335bcdf434608633d77c94ead08c3f1720/Github_profile_image.gif"/>
+### Hello 👋 I'm Ria, A.I. Overlord
+<p align="center">
+<img src="https://s3.amazonaws.com/adweek-shorthand-editorial/uncannyvalley/assets/BLSQBO9z15/genesis01-nolight.gif" width=700/>
+</p>
 
-- :robot: I’m currently working on intuitive physics research @Intel
-- 💻 My portfolio is at https://riacheruvu.github.io/
-- 📝 I blog at https://demystifymachinelearning.wordpress.com/
-
+- :heart::robot::brain::heart: My passion is exploring the intersection of CS and neuroscience and innovating powerful, interdisciplinary solutions to improve quality of life and inspire change.
+- :woman_technologist: I'm a Deep Learning Researcher @Intel working on applying A.I. for intuitive physics and the Internet of Things. 
+- :woman_student: I have a master's degree in data science and a bachelor's degree in computer science from Harvard University.
+- 💻 Check out my portfolio at https://riacheruvu.github.io/
+- 📝 I blog on machine learning at https://demystifymachinelearning.wordpress.com/
