@@ -9,4 +9,4 @@
 - :woman_student: I have a master's degree in data science and a bachelor's degree in computer science from Harvard University.
 - 💻 Check out my portfolio at https://riacheruvu.github.io/
 - 📝 I blog on machine learning at https://demystifymachinelearning.wordpress.com/
-- ⚡ Fun fFact: I'm 16.
+- ⚡ Fun Fact: I'm 16.
