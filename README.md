@@ -1,4 +1,4 @@
-### Hello 👋 I'm Ria, A.I. Overlord
+### Hello 👋, I'm Ria, A.I. Overlord
 <p align="center">
 <img src="https://s3.amazonaws.com/adweek-shorthand-editorial/uncannyvalley/assets/BLSQBO9z15/genesis01-nolight.gif" width=700/>
 </p>
